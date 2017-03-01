@@ -34,7 +34,6 @@ gem 'quiet_assets'
 gem 'lograge'
 
 group :test do
-  gem 'memory_test_fix'
   gem 'timecop'
   gem 'vcr'
   gem 'webmock'
