@@ -40,6 +40,7 @@ group :test do
 end
 
 group :test, :development do
+  gem 'letter_opener'
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'capybara'
